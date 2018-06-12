@@ -1,0 +1,5 @@
+Welcome to File handling...Hello World This is file handling in python.
+			Python is Awesomeo File handling...Welcome to File handling...Hello World This is file handling in python.
+			Python is AwesomeWelcome to File handling...Hello World This is file handling in python.
+			Python is AwesomeWelcome to File handling...Hello World This is file handling in python.
+			Python is Awesome
